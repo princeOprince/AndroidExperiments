@@ -1,84 +1,252 @@
 <resources>
-    <string name="app_name">Scrolling Text</string>
-    <string name="article_title">21 Success Secrets of Self-made Millionaires</string>
+    <string name="app_name">Success Secrets</string>
+    <string name="article_title">21 Success Secrets of Self-Made Millionaires</string>
     <string name="article_subtitle">by Brian Tracy</string>
     <string name="comment">Add comment</string>
-    <string name="article_text">Presented by EmpowerMe!Online at http://www.empowermeonline.com. \n\nHello, I\'m Brian Tracy and welcome to this program.
-        What you are about to learn can change your life. These ideas, insights and strategies have been the springboards to financial success for millions
-        of men and women, from every walk of life. These principles are simple, effective and fairly easy to apply. Each of them is based on exhaustive research
-        and interviews with thousands of self-made millionaires. They have been tested and proven over and over again, and they will work for you if you will take
-        them and apply them in your own life. We are living at the greatest time in all of human history. More people are becoming wealthy today, starting from nothing
-        than has ever been imagined. There are more than five million millionaires in America, most of them self-made, and the number is growing by 15% to 20% each year.
-        We even have self-made ten millionaires, hundred millionaires and more than two hundred billionaires. We have never seen this type of rapid
-        wealth creation in all of human history.
+    <string name="prince_o_prince">Prince O Prince</string>
+
+    <string name="article_text">Presented by EmpowerMe!Online at http://www.empowermeonline.com.
+
+        \n\nHello, I\'m Brian Tracy and welcome to this program. What you are about to learn can
+        change your life. These ideas, insights and strategies have been the springboards to
+        financial success for millions of men and women, from every walk of life. These principles
+        are simple, effective and fairly easy to apply. Each of them is based on exhaustive research
+        and interviews with thousands of self-made millionaires. They have been tested and proven
+        over and over again, and they will work for you if you will take them and apply them in your
+        own life.
+
+        \n\nWe are living at the greatest time in all of human history. More people are becoming
+        wealthy today, starting from nothing than has ever been imagined. There are more than five
+        million millionaires in America, most of them self-made, and the number is growing by 15% to
+        20% each year. We even have self-made ten millionaires, hundred millionaires and more than two
+        hundred billionaires. We have never seen this type of rapid wealth creation in all of human
+        history.
 
         \n\n<b>Here\'s the good news.</b> Virtually everyone starts with nothing.
         Probably 99% of all financially successful people today started off
-broke or nearly broke. The average self-made millionaire has been
-bankrupt or close to bankrupt 3.2 times. Most of them failed over and
-over again before they finally found the right opportunity that they
-were able to leverage into financial success. And what hundreds of
-thousands and millions of other people have done, you can do as
-well. The iron law of human destiny is the Law of Cause and Effect. This
-law is simple yet very powerful. It says that there is a specific effect
-for every cause. For every action, there is a reaction. This law says
-that success is not an accident. Financial success is the result of doing
-certain, specific things, over and over again, until you get the effect
-that you desire. Nature is neutral. This means that nature, the marketplace, our
-society, does not care who you are or what you are. The law simply
-says that if you do what other successful people do, you will get the
-results that other successful people get. And if you don\'t, you won\'t.
-When you learn and apply the success secrets of self-made
-millionaires in your own life, you will experience results and rewards
-far beyond anything you have ever accomplished in life up until
-now.
-        \n\nHere is an important point. Nobody is better than you and nobody is
-smarter than you. Let me repeat that. Nobody is better than you and
-nobody is smarter than you. Get those thoughts out of your mind.
-One of the primary reasons for selling yourself short, for
-underachievement and lack of financial success is the conviction that
-people who are doing better than you are better than you. This is
-simply not the case.
-The fact is that most self-made millionaires are average people with
-average educations working at average jobs and living in average
-neighborhoods in average houses driving average cars. But they have
-found out what other financially successful people do and they have
-done the same thing over and over again until they got the same
-results. It is no miracle and it is no accident. And when you think the
-thoughts and do the things that self-made millionaires do, you will
-begin to get the same results and benefits they do. It is all up to you.
-There are 21 secrets of success of self-made millionaires. Each of these
-is indispensable to your becoming financially independent. The
-absence of any one of these factors can, by itself, undermine and even
-destroy your chances for health, happiness and great prosperity. The
-good news is that you can learn every one of these principles by
-practice and repetition, over and over again, until they become as
-natural to you as breathing in and breathing out. Just as you have
-learned to ride a bicycle or drive a car, you can learn the secrets of
-success of self-made millionaires and apply them in your life. And
-there are no limits except the limits you place on yourself.
-Now, let us begin:</string>
+        broke or nearly broke. The average self-made millionaire has been
+        bankrupt or close to bankrupt 3.2 times. Most of them failed over and
+        over again before they finally found the right opportunity that they
+        were able to leverage into financial success. And what hundreds of
+        thousands and millions of other people have done, you can do as
+        well.
 
-    <string name="article_text2">\n\n<i>The first secret of self-made millionaires is simple:</i> <b>Dream Big
-Dreams!</b></string>
+        \n\nThe iron law of human destiny is <b>the Law of Cause and Effect</b>. This
+        law is simple yet very powerful. It says that <i>there is a specific effect
+            for every cause. For every action, there is a reaction</i>. This law says
+        that success is not an accident. Financial success is the result of doing
+        certain, specific things, over and over again, until you get the effect
+        that you desire.
 
-    <string name="article_text3">Allow yourself to dream. Allow yourself to imagine and
-fantasize about the kind of life you would like to live and the kind of
-money you would like to earn and have in your bank account.
-All great men and women begin with a dream of something
-wonderful and different from what they have today. You know the
-song that says, \"You have to have a dream if you want to make a dream come true.\"
-Imagine that you have no limitations on what you can be, have or do
-in life. Just for the moment, imagine that you have all the time, all the
-money, all the education, all the experience, all the friends, all the
-contacts, all the resources and everything you need to achieve
-anything you want in life. If your potential was completely
-unlimited, what kind of a life would you want to create for yourself
-and your family?
-Practice "back from the future" thinking. This is a powerful technique
-practiced by high performing men and women that has an amazing
-effect on your mind and on your behavior. Project yourself forward
-five years. Imagine that five years have passed and that your life is
-now perfect in every respect. What does it look like? What are you
-doing? Where are you working? How much money are you earning?</string>
+        \n\nNature is neutral. This means that nature, the marketplace, our
+        society, does not care who you are or what you are. The law simply
+        says that if you do what other successful people do, you will get the
+        results that other successful people get. And if you don\'t, you won\'t.
+        When you learn and apply the success secrets of self-made
+        millionaires in your own life, you will experience results and rewards
+        far beyond anything you have ever accomplished in life up until
+        now.
+
+        \n\n<b>Here is an important point</b>. <i>Nobody is better than you and nobody is
+            smarter than you</i>. Let me repeat that. Nobody is better than you and
+        nobody is smarter than you. Get those thoughts out of your mind.
+        One of the primary reasons for selling yourself short, for
+        underachievement and lack of financial success is the conviction that
+        people who are doing better than you are better than you. This is
+        simply not the case.
+
+        \n\nThe fact is that most self-made millionaires are average people with
+        average educations working at average jobs and living in average
+        neighbourhoods in average houses driving average cars. But they have
+        found out what other financially successful people do and they have
+        done the same thing over and over again until they got the same
+        results. It is no miracle and it is no accident. And when you think the
+        thoughts and do the things that self-made millionaires do, you will
+        begin to get the same results and benefits they do. It is all up to you.
+
+        \n\nThere are 21 secrets of success of self-made millionaires. Each of these
+        is indispensable to your becoming financially independent. The
+        absence of any one of these factors can, by itself, undermine and even
+        destroy your chances for health, happiness and great prosperity. The
+        good news is that you can learn every one of these principles by
+        practice and repetition, over and over again, until they become as
+        natural to you as breathing in and breathing out. Just as you have
+        learned to ride a bicycle or drive a car, you can learn the secrets of
+        success of self-made millionaires and apply them in your life. And
+        there are no limits except the limits you place on yourself.
+
+        \n\nNow, let us begin:</string>
+
+    <string name="button_1">1. Dream Big Dreams</string>
+    <string name="button_2">2. Develop a Clear Sense of Direction</string>
+    <string name="button_3">3. See Yourself as Self-Employed</string>
+    <string name="button_4">4. Do what You love to do</string>
+    <string name="button_5">5. Commit to Excellence</string>
+    <string name="button_6">6. Develop a Workaholic Mentality</string>
+    <string name="button_7">7. Dedicate Yourself to Lifelong Learning</string>
+    <string name="button_8">8. Pay Yourself First</string>
+    <string name="button_9">9. Learn Every Detail of your Business</string>
+    <string name="button_10">10. Dedicate Yourself to serving Others</string>
+    <string name="button_11">11. Be Impeccably honest with Yourself and Others</string>
+    <string name="button_12">12. Set Priorities on your Activities and concentrate Single Mindedly
+                                    on One Thing at a Time</string>
+    <string name="button_13">13. Develop a Reputation for Speed and Dependability</string>
+    <string name="button_14">14. Be Prepared to climb from Peak to Peak in your Life and in your Career</string>
+    <string name="button_15">15. Practice Self-Discipline in all Things</string>
+    <string name="button_16">16. Unlock your Inborn Creativity</string>
+    <string name="button_17">17. Get Around the Right People</string>
+    <string name="button_18">18. Take Excellent Care of your Physical Health</string>
+    <string name="button_19">19. Be Decisive and Action Oriented</string>
+    <string name="button_20">20. Never consider the Possibility of Failure</string>
+    <string name="button_21">21. Back Everything you do with the Twin Qualities of Persistence
+                                and Determination</string>
+
+    <string name="ss1">The first secret of self-made millionaires is simple: <b>Dream Big Dreams!</b>
+        Allow yourself to dream. Allow yourself to imagine and fantasize about the kind of life you
+        would like to live and the kind of money you would like to earn and have in your bank account.
+
+        \n\nAll great men and women begin with a dream of something
+        wonderful and different from what they have today. You know the
+        song that says, <i>\"You have to have a dream if you want to make a dream come true.\"</i>
+
+        \nImagine that you have no limitations on what you can be, have or do
+        in life. Just for the moment, imagine that you have all the time, all the
+        money, all the education, all the experience, all the friends, all the
+        contacts, all the resources and everything you need to achieve
+        anything you want in life. If your potential was completely
+        unlimited, what kind of a life would you want to create for yourself
+        and your family?
+
+        \n\nPractice "back from the future" thinking. This is a powerful technique
+        practiced by high performing men and women that has an amazing
+        effect on your mind and on your behavior. Project yourself forward
+        five years. Imagine that five years have passed and that your life is
+        now perfect in every respect. What does it look like? What are you
+        doing? Where are you working? How much money are you earning?
+        How much do you have in the bank? What kind of a lifestyle do you
+        have?
+
+        \n\nCreate a vision for yourself for the long-term future. The more clear
+        your vision of health, happiness and prosperity, the faster you move
+        toward it and the faster it moves toward you. When you create a
+        clear mental picture of where you are going in life, you become more
+        positive, more motivated and more determined to make it a reality.
+        You trigger your natural creativity and come up with idea after idea
+        to help make your vision come true.
+
+        \n\nYou always tend to move in the direction of your dominant dreams,
+        images and visions. The very act of allowing yourself to dream big
+        dreams actually raises your self-esteem and causes you to like and
+        respect yourself more. It improves your self-concept and increases
+        your level of self-confidence. It increases your personal level of
+        self-respect and personal happiness. There is something about dreams
+        and visions that is exciting and that stimulates you to do and be
+        better than you ever have before.
+
+        \n\nHere is a great question for you to ask and answer, over and over
+        again: <i>\"What one thing would you dare to dream if you knew you
+        could not fail?\"</i> If you were absolutely guaranteed of success in any
+        one thing in life, large or small, short-term or long-term, what would
+        it be? What one great thing would you dare to dream if you knew
+        you could not fail?
+
+        \n\nWhatever it is, write it down and begin imagining that you had
+        achieved this one great goal already. Then, look back to where you
+        are today. What would you have done to get to where you want to
+        go? What steps would you have taken? What would you have
+        changed in your life? What would you have gotten into or gotten out
+        of? Who would you be with? Who would you no longer be with? If
+        your life was perfect in every respect, what would it look like?
+        Whatever it is that you would do differently, take the first step today.
+
+        \n\nDreaming big dreams is the starting point of achieving your goal of
+        financial independence. The number one reason that people never
+        succeed financially is because it never occurs to them that they can do
+        it. As a result, they never try. They never get started. They continue
+        to go around in financial circles, spending everything they earn and a
+        little bit more besides. But when you begin to dream big dreams
+        about financial success, you begin to change the way you see yourself
+        and your life. You begin to do different things, bit by bit, gradually,
+        until the whole direction of your life changes for the better. Dreaming
+        big dreams is the starting point of financial success, and becoming a
+        self-made millionaire.</string>
+
+    <string name="ss2">Secret number two, <b>develop a clear sense of direction</b>. This is where
+        you take your dreams out of the air and you crystallize them into
+        clear, specific written goals. Perhaps the greatest discovery in human
+        history is that, <b>\"You become what you think about most of the time.\"</b>
+        The two factors that determine what happens to you in life, more
+        than anything else, are <i>what you think about and how you think about
+        it.</i>
+
+        \n\nSuccessful people think about their goals most of the time. As a
+        result, they are continually moving toward their goals and their goals
+        are moving toward them. Whatever you think about most of the time
+        grows and increases in your life. If you are thinking and talking and
+        visualizing your goals, you tend to accomplish far, far more than the
+        average person who is usually thinking and talking about their
+        worries and problems most of the time.
+
+        \n\nHere is an exercise for you. Take a sheet of paper and write the word
+        "Goals" at the top with today\'s date. Then, make a list of 10 goals that
+        you would like to achieve over the next 12 months. Write your goals
+        in the present tense, as though a year has passed and you have
+        already achieved them. Begin each goal with the word "I" to make it
+        personal to you. By making out a list of 10 goals for yourself for the
+        next year, you will have moved yourself into the top 3% of adults in
+        our society. The sad fact is that 97% of adults have never made a list
+        of goals in their entire lives.
+
+        \n\nOnce you have your list of 10 goals, go back over the list and ask this
+        key question: <i>\"Which one goal on this list, if I were to achieve it,
+        would have the greatest positive impact on my life?\"</i>
+
+        \n\nWhatever your answer to that question, circle that goal and make
+        that your number one, most important goal for the future. Set a
+        deadline, make a plan, take action on your plan and do something
+        every day that moves you toward your goal.
+        From now on, think and talk about that goal all the time. Think and
+        talk about how you can achieve that goal. Think and talk about all the
+        different things that you can do to make that goal a reality. This
+        exercise will stimulate your creativity, increase your energy and
+        unlock your potential.
+    </string>
+
+    <string name="ss3">Success secret number three, <b>see yourself as self-employed</b>. Accept
+        complete, 100% responsibility for everything you are and everything
+        you will ever be. Refuse to make excuses or to blame other people for
+        your problems or short comings. Stop complaining about things in
+        your life that you are not happy about. Refuse to criticize other
+        people for anything. You are responsible. If there is something in
+        your life that you don\'t like, it is up to you to do something about it.
+        But you are in charge.
+
+        \n\nThe top 3% of Americans see themselves as self-employed, no matter
+        who signs their paycheck. The biggest mistake you can ever make is
+        to ever think that you work for anyone other than yourself. You are
+        always self-employed. You are always the president of your own
+        personal services corporation, no matter where you might be
+        working at the moment. When you see yourself as self-employed,
+        you develop the entrepreneur mentality, the mentality of the highly
+        independent, self-responsible, self-starting individual. <b>Instead of
+        waiting for things to happen, you make things happen.</b> You see
+        yourself as the boss of your own life. You see yourself as completely
+        in charge of your physical health, your financial well being, your
+        career, your relationships, your house, your home, your car and
+        every element of your existence. This is the mindset of the truly
+        excellent person.
+
+        \n\nSelf-responsible people are intensely result oriented. They take high
+        levels of initiative. They volunteer for assignments and they are
+        always asking for more responsibility. As a result, they become the
+        most valuable and respected people in their organizations. They
+        continually prepare themselves for positions of higher authority and
+        responsibility in the future. You should do the same.
+
+        \n\nHere\'s a question: <i>\"If you were president for a day in your company,
+        or were completely responsible for results where you work, what one
+        change would you enact immediately?\"</i> Whatever it is, write it down,
+        make a plan and begin on it today. This alone could change your life.
+    </string>
+
 </resources>
