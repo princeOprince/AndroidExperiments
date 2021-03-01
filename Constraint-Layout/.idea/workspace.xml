@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="4.7in WXGA" />
+        <device id="4in WVGA (Nexus S)" />
+        <device id="4.65in 720p (Galaxy Nexus)" />
+        <device id="Nexus 10" />
+        <device id="Nexus 7" />
+        <device id="pixel_3_xl" />
+        <device id="Nexus 6P" />
+        <device id="Nexus 5X" />
+        <locale>de</locale>
+      </config>
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="475b4bd4-e7e8-4356-8832-42bbaf430514" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Shopping-List/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Two-Activities/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Two-Activities/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/googleio/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/googleio/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/singapore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_ab_drawer_mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_ab_up_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/info_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_autoconnect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_barriers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_chains.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_done.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_inference.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_ratio.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_start.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/googleio/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Challenge/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Challenge/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Challenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Challenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Challenge/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Challenge/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Challenge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Challenge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Challenge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Challenge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Challenge/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Challenge/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Constraint/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Constraint/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Constraint/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Constraint/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Constraint/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Constraint/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Constraint/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Constraint/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello Toast Constraint/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello Toast Constraint/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScrollingText/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ScrollingText/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScrollingText/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ScrollingText/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScrollingText/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ScrollingText/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-List/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-List/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-List/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-List/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-List/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-List/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-List/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-List/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-List/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-List/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-Activities/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Two-Activities/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-Activities/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Two-Activities/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-Activities/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Two-Activities/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-Activities/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Two-Activities/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two-Activities/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Two-Activities/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[0271910782900778]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1p8spaajdR2jDXIlg9SER9f4kVv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="E:/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Counter-Homework" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Constraint-Layout.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475b4bd4-e7e8-4356-8832-42bbaf430514" name="Default Changelist" comment="" />
+      <created>1574153288433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574153288433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="36" key="#app" timestamp="1614576932862">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="509" y="36" key="#app/0.0.1600.900@0.0.1600.900" timestamp="1614576932862" />
+    <state x="580" y="191" key="FileChooserDialogImpl" timestamp="1614576425138">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="191" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1614576425138" />
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom" timestamp="1614577306775">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1614577306775" />
+    <state width="1557" height="235" key="GridCell.Tab.0.center" timestamp="1614577306775">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1614577306775" />
+    <state width="1557" height="235" key="GridCell.Tab.0.left" timestamp="1614577306775">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1614577306775" />
+    <state width="1557" height="235" key="GridCell.Tab.0.right" timestamp="1614577306775">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="235" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1614577306775" />
+  </component>
+</project>
