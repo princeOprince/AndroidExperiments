@@ -5,7 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-import static android.widget.Toast.makeText;
+
+import com.google.android.material.snackbar.Snackbar;
 
 public class MainActivity extends AppCompatActivity {
     private int mCount = 0;
@@ -19,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showToast(View view) {
-        makeText(this, R.string.toast_message, Toast.LENGTH_SHORT).show();
+        Snackbar.make(view, R.string.toast_message, Snackbar.LENGTH_SHORT).show();
     }
 
     public void countUp(View view) {
