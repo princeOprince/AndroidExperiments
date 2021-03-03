@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toast Me!</string>
+    <string name="hello_toast">Hello Toast</string>
+    <string name="custom_toast_icon">Notification speaker</string>
+    <string name="custom_toast_text">This is a lovely toast!</string>
+    <string name="standard_toast_btn_txt">Display Standard Toast</string>
+    <string name="custom_toast_btn_txt">Display Custom Toast</string>
+</resources>
