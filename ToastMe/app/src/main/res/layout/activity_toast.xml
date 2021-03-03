@@ -2,8 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:layout_weight="1">
+    android:layout_height="match_parent" >
 
     <Button
         android:id="@+id/standard_toast_btn"
@@ -20,5 +19,19 @@
         android:text="@string/standard_toast_btn_txt"
         app:cornerRadius="10dp" />
 
+
+    <Button
+        android:id="@+id/custom_toast_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:onClick="showCustomToast"
+        android:text="@string/custom_toast_btn_txt"
+        app:layout_constraintTop_toBottomOf="@+id/standard_toast_btn" />
 
 </RelativeLayout>

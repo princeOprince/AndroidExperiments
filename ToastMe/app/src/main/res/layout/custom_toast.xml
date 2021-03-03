@@ -9,4 +9,17 @@
     android:padding="8dp"
     tools:context=".ToastActivity">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:contentDescription="@string/custom_toast_icon"
+        android:src="@android:drawable/presence_audio_busy" />
+    <!--    app:srcCompat="@android:drawable/presence_audio_busy"-->
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff" />
 </LinearLayout>
